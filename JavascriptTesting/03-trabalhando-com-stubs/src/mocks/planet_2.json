@@ -1,0 +1,13 @@
+{
+  "createdAt": "2022-04-29T11:06:20.105Z",
+  "name": "Juan Huels",
+  "rotation_period": 18,
+  "orbital_period": 63,
+  "diameter": 64,
+  "climate": "climate 2",
+  "gravity": 18,
+  "terrain": "terrain 2",
+  "surface_water": 29,
+  "population": 47,
+  "id": "2"
+}
