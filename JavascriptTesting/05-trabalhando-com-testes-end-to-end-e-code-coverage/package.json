@@ -1,0 +1,15 @@
+{
+  "name": "05-trabalhando-com-testes-end-to-end-e-code-coverage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn mocha -w *.spec.js",
+    "test:cov": "yarn nyc yarn mocha --parallel *.spec.js"
+  },
+  "devDependencies": {
+    "mocha": "8",
+    "nyc": "15",
+    "supertest": "6"
+  }
+}
