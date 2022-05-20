@@ -1,0 +1,20 @@
+[
+  {
+    "id": "adab74de-f13f-480f-8c8e-9c12fd37a23b",
+    "name": "Jordane",
+    "driverLicense": "db90b6bb-8b63-4aa2-a4fd-cdc14c13999f",
+    "age": 25
+  },
+  {
+    "id": "06160c66-1ef8-4863-8c07-e335d2a3864a",
+    "name": "Weston",
+    "driverLicense": "88e90e13-a608-4669-b8d1-ee1b27a399f9",
+    "age": 22
+  },
+  {
+    "id": "f58b4768-1bdd-4b39-af95-fabbbebceb4b",
+    "name": "Tracy",
+    "driverLicense": "cf3a4860-e7f0-4a89-a869-465743b6f484",
+    "age": 48
+  }
+]

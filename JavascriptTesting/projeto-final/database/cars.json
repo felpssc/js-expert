@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2eb14df0-486d-4978-8002-67ce49757652",
+    "name": "Expedition",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": false
+  },
+  {
+    "id": "f197aad1-1faa-4b8d-8ab2-4983b1953e89",
+    "name": "Taurus",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": false
+  },
+  {
+    "id": "9170df73-4a72-4893-8b73-ac470f68eaa1",
+    "name": "Countach",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": false
+  }
+]
